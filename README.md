@@ -8,11 +8,11 @@
 </head>
 <body>
     <header>
-        <h1>Welcome to shyam verma Portfolio</h1>
+        <h1>Weclcome to Roop's Portfolio</h1>
     </header>
     <section>
         <h2>About Me</h2>
-        <p>currently i'am doing my masters in Northwood University.</p>
+        <p>I am student of Northwood University studying MSBA. </p>
     </section>
     <section>
         <h2>Projects</h2>
